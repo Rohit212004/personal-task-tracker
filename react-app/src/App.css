@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.home-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Members-section {
+   background-color: #282c34;
+   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+  
+.home-header h2 {
+  margin-bottom: 1rem;
+  color: #4a90e2;
+}
+
+#link{
+  color: #4a90e2;
+}
+
+.Members-section h2 {
+  margin-bottom: 1rem;
+  color: #4a90e2;
+}
+
+.Members-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Members-section li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.Members-section li:last-child {
+  border-bottom: none;
+}
