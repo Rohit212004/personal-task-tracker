@@ -8,9 +8,6 @@ const Home = () => {
       <p>
         Welcome to the Personal Task Tracker. <br />
         This application helps you manage your tasks efficiently. <br />
-        <br />
-        You can view team members  <a href="/members" id ="link">here</a>.
-        
       </p>
     </header>
   );

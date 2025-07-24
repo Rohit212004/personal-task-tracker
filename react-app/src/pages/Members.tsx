@@ -11,8 +11,8 @@ const Members = () => {
       <ul>
         <li>Rohit Vishwakarma</li>
         <li>Pallavi Sutar</li>
-        <li>Khushi</li>
-        <li>Daniel</li>
+        <li>Khushi Chitara</li>
+        <li>Daniel Pinto</li>
       </ul>
       
     </section>
