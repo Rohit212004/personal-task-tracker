@@ -11,35 +11,34 @@
 }
 
 .home-header {
-  background-color: #1E1E2F;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color:black;
 }
 
 .Members-section {
-   background-color:#1E1E2F;
+  
    min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color:black;
 }
  
 .home-header h2 {
   margin-bottom: 1rem;
-  color: #4a90e2;
+  color: blue;
 }
 
 .Members-section h2 {
   margin-bottom: 1rem;
-  color: #4a90e2;
+  color: blue;
 }
 
 .Members-section ul {
@@ -49,7 +48,7 @@
 
 .Members-section li {
   padding: 0.5rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid black;
 }
 
 .Members-section li:last-child {
@@ -61,10 +60,11 @@
  width: 100%;
  height:100%;
  padding: 20px;
+ background-color: blue;
 }
 nav .nav-left,.nav-right,#link{
  margin:2px 20px;
- color: #4a90e2;
+ color: whitesmoke;
 }
 nav .nav-left a{
  font-size: 23px;
@@ -92,7 +92,6 @@ nav a{
  justify-content: center;
 }
 .todo {
-   background-color:#1E1E2F;
    min-height: 100vh;
   display: flex;
   flex-direction: column;
